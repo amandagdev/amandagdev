@@ -4,16 +4,13 @@
 </a>
 
 </br>
-
-
-
-
+</br>
 
 Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react.
 
-Além de programadar gosto muito de jogar e viajar 🎮✈️🗺 
+Além de programadar gosto muito de jogar e viajar :video_game: :airplane: 
 
-Tecnologias e ferramentas 💻:
+Tecnologias e ferramentas :pushpin::
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
