@@ -3,12 +3,17 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+</br>
+
+
+
+
 
 Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react.
 
-Além de programadar gosto muito de jogar e viajar 
+Além de programadar gosto muito de jogar e viajar 🎮✈️🗺 
 
-Tecnologias e ferramentas:
+Tecnologias e ferramentas 💻:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
