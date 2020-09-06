@@ -1,4 +1,4 @@
-### Amanda Gomes
+### Olá
 <a target="_blank" href="https://www.linkedin.com/in/amandagomesti">
   <img align="left" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
