@@ -1,14 +1,14 @@
 ### Amanda Gomes
 <a target="_blank" href="https://www.linkedin.com/in/amandagomesti">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 </br>
 </br>
 
-Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react.
+Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react :yellow_heart: :blue_heart:. Estou formando na área de TI e atualmente trabalho como desenvolvedora mobile com react native na Ponto a Ponto.
 
-Além de programadar gosto muito de jogar e viajar :video_game: :airplane: 
+Além de programar gosto muito de jogar e viajar :video_game: :airplane: 
 
 Tecnologias e ferramentas :pushpin::
 
