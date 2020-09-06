@@ -3,6 +3,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
 Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react.
 
 Além de programadar gosto muito de jogar e viajar 
