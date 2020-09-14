@@ -6,7 +6,7 @@
 </br>
 </br>
 
-Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react :yellow_heart: :blue_heart:. Estou formando na área de TI e atualmente trabalho como desenvolvedora mobile com react native na Ponto a Ponto.
+Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react :yellow_heart: :blue_heart:. Estou formando na área de TI e atualmente trabalho como desenvolvedora front end na @leroy-merlin-brasil.
 
 Além de programar gosto muito de jogar e viajar :video_game: :airplane: 
 
