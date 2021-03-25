@@ -6,7 +6,7 @@
 </br>
 </br>
 
-Meu nome é Amanda e sou desenvolvedora front end, sou apaixonada por javascript e react :yellow_heart: :blue_heart:. 
+Meu nome é Amanda e sou desenvolvedora front end, e tenho experiência com javascript e react :yellow_heart: :blue_heart:. 
 
 Sou formada na área de TI e atualmente trabalho como desenvolvedora front end na Leroy Merlin Brasil.
 
