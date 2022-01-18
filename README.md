@@ -8,7 +8,7 @@
 
 Meu nome é Amanda e sou desenvolvedora front end, tenho experiência com javascript e react :yellow_heart: :blue_heart:. 
 
-Sou formada na área de TI e atualmente trabalho como desenvolvedora front end na Leroy Merlin Brasil.
+Sou formada na área de TI e atualmente trabalho como front end software engineer na Pier Seguradora.
 
 Além de programar gosto muito de jogar e viajar :video_game: :airplane: 
 
